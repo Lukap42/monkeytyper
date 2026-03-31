@@ -1,0 +1,14 @@
+0 150 48 4 3 13
+cabin 979 240
+gain 904 336
+delivery 753 720
+candle 677 288
+empire 601 720
+immune 526 672
+snatch 450 288
+lamp 376 1008
+candle 300 288
+call 224 672
+candle 148 96
+provoke 73 192
+pity 0 960
