@@ -13,8 +13,7 @@ The game features:
 |:---:|:---:|:---:|:---:|
 | ![Main Menu](screenshots/MainMenu.png "Main menu") | ![Game](screenshots/Game.png "Game  example") | ![Settings](screenshots/Settings.png "Settings") | ![Scoreboard](screenshots/Scoreboard.png "Scoreboard") |
 
-<video src="screenshots/gameplay example.mp4" controls width="600"></video>
-
+Gameplay example included in screenshots folder
 
 ## Build instructions
 Build using the CMakeLists
