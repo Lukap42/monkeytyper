@@ -11,7 +11,7 @@ The game features:
 ## Screenshots
 | Main Menu | Game example | Settings | Scoreboard |
 |:---:|:---:|:---:|:---:|
-| ![Main Menu](screenshots/Main%20Menu.png "Main menu") | ![Game](screenshots/Game.png "Game  example") | ![Settings](screenshots/Settings.png "Settings") | ![Scoreboard](screenshots/Scoreboard.png "Scoreboard") |
+| ![Main Menu](screenshots/MainMenu.png "Main menu") | ![Game](screenshots/Game.png "Game  example") | ![Settings](screenshots/Settings.png "Settings") | ![Scoreboard](screenshots/Scoreboard.png "Scoreboard") |
 
 <video src="screenshots/gameplay example.mp4" controls width="600"></video>
 
