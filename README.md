@@ -11,9 +11,9 @@ The game features:
 ## Screenshots
 | Main Menu | Game example | Settings | Scoreboard |
 |:---:|:---:|:---:|:---:|
-| ![Main Menu](Screenshots/Main%20Menu.png "Main menu") | ![Game](Screenshots/Game.png "Game  example") | ![Settings](Screenshots/Settings.png "Settings") | ![Scoreboard](Screenshots/Scoreboard.png "Scoreboard") |
+| ![Main Menu](screenshots/Main%20Menu.png "Main menu") | ![Game](screenshots/Game.png "Game  example") | ![Settings](screenshots/Settings.png "Settings") | ![Scoreboard](screenshots/Scoreboard.png "Scoreboard") |
 
-<video src="Screenshots/gameplay example.mp4" controls width="600"></video>
+<video src="screenshots/gameplay example.mp4" controls width="600"></video>
 
 
 ## Build instructions
